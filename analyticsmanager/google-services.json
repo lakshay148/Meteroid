@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "363157508749",
+    "firebase_url": "https://testframeworkproj.firebaseio.com",
+    "project_id": "testframeworkproj",
+    "storage_bucket": "testframeworkproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363157508749:android:ac27de8b5e066326",
+        "android_client_info": {
+          "package_name": "com.gaadi.analyticsmanager.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363157508749-728l68fauv9lqc9oobujuattg0vvg8cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8FVBCAS3hrvZ4ygcYpWVJBpB0LkOk7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
